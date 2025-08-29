@@ -1,0 +1,1950 @@
+{
+    "sektion": "Test",
+    "datum": "2099-12-31",
+    "omgangar": [
+        {
+            "kon": "Hanar",
+            "namn": "Försök 1",
+            "heat": [
+                {
+                    "nr": 1,
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "licensNr": 1503,
+                            "hundNamn": "Hannemoon HM Magneto",
+                            "kon": "H",
+                            "tid": 9.56,
+                            "placering": 4,
+                            "agare": "Andersen Hanne",
+                            "sektion": "VÄS"
+                        },
+                        {
+                            "farg": "B",
+                            "licensNr": 1518,
+                            "hundNamn": "Raceheart's MB Arkturus Black",
+                            "kon": "H",
+                            "tid": 9.53,
+                            "placering": 3,
+                            "agare": "Stenius Kathryne & Kjell Johansson",
+                            "sektion": "SÖD"
+                        },
+                        {
+                            "farg": "V",
+                            "licensNr": 1506,
+                            "hundNamn": "Crazy Owl´s Björn Järnsida",
+                            "kon": "H",
+                            "tid": 9.42,
+                            "placering": 2,
+                            "agare": "Sjöberg Monica",
+                            "sektion": "KAR"
+                        },
+                        {
+                            "farg": "S",
+                            "licensNr": 1553,
+                            "hundNamn": "Goat-Wool Bowmore",
+                            "kon": "H",
+                            "tid": 9.4,
+                            "placering": 1,
+                            "agare": "Nilsson Katarina",
+                            "sektion": "NOR"
+                        }
+                    ]
+                },
+                {
+                    "nr": 2,
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "licensNr": 1362,
+                            "hundNamn": "Goat-Wools Zappa",
+                            "kon": "H",
+                            "tid": 10.46,
+                            "placering": 3,
+                            "agare": "Petersson Eva",
+                            "sektion": "NOR"
+                        },
+                        {
+                            "farg": "B",
+                            "licensNr": 1529,
+                            "hundNamn": "Burnt Sienna Chevron",
+                            "kon": "H",
+                            "tid": 10.34,
+                            "placering": 2,
+                            "agare": "Carin Ebbesdotter",
+                            "sektion": "SÖD"
+                        },
+                        {
+                            "farg": "V",
+                            "licensNr": 15224,
+                            "hundNamn": "Dixietown Kalle Teodor",
+                            "kon": "H",
+                            "tid": 9.89,
+                            "placering": 1,
+                            "agare": "Sahlin Tony",
+                            "sektion": "HAL"
+                        },
+                        { "farg": "S" }
+                    ]
+                },
+                {
+                    "nr": 3,
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "licensNr": 11251,
+                            "hundNamn": "Mac Bells Quick Witted",
+                            "kon": "H",
+                            "tid": 9.7,
+                            "placering": 2,
+                            "agare": "Machnow Elin",
+                            "sektion": "SÖD"
+                        },
+                        {
+                            "farg": "B",
+                            "licensNr": 16267,
+                            "hundNamn": "VG's Nosar Emser",
+                            "kon": "H",
+                            "tid": 9.89,
+                            "placering": 3,
+                            "agare": "Jacobsson Susanne",
+                            "sektion": "KAR"
+                        },
+                        {
+                            "farg": "V",
+                            "licensNr": 1458,
+                            "hundNamn": "Tre Hjärtans Baztian",
+                            "kon": "H",
+                            "tid": 9.68,
+                            "placering": 1,
+                            "agare": "Trulsson Anna & Claes",
+                            "sektion": "HAL"
+                        },
+                        { "farg": "S" }
+                    ]
+                },
+                {
+                    "nr": 4,
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "licensNr": 1501,
+                            "hundNamn": "Hannemoon HM Superchief",
+                            "kon": "H",
+                            "tid": 9.44,
+                            "placering": 3,
+                            "agare": "Andersen Hanne",
+                            "sektion": "VÄS"
+                        },
+                        {
+                            "farg": "B",
+                            "licensNr": 1435,
+                            "hundNamn": "RaceHeart´s MB Charmander",
+                            "kon": "H",
+                            "tid": 9.3,
+                            "placering": 2,
+                            "agare": "Petersson Eva",
+                            "sektion": "NOR"
+                        },
+                        {
+                            "farg": "V",
+                            "licensNr": 14287,
+                            "hundNamn": "Raceheart´s MB Trick Or Treat",
+                            "kon": "H",
+                            "tid": 9.26,
+                            "placering": 1,
+                            "agare": "Fandrey Alva",
+                            "sektion": "KAL"
+                        },
+                        {
+                            "farg": "S",
+                            "licensNr": 1439,
+                            "hundNamn": "Axrace's Admiral Rodney",
+                            "kon": "H",
+                            "tid": 9.78,
+                            "placering": 4,
+                            "agare": "Nilsson Katarina",
+                            "sektion": "NOR"
+                        }
+                    ]
+                },
+                {
+                    "nr": 5,
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "licensNr": 15220,
+                            "hundNamn": "Dixietown Landsortsgrabb",
+                            "kon": "H",
+                            "tid": 9.74,
+                            "placering": 1,
+                            "agare": "Jennie Andreasson",
+                            "sektion": "HAL"
+                        },
+                        {
+                            "farg": "B",
+                            "licensNr": 1569,
+                            "hundNamn": "Calling You Ringo",
+                            "kon": "H",
+                            "tid": 10.05,
+                            "placering": 3,
+                            "agare": "Lundberg Victoria",
+                            "sektion": "SÖD"
+                        },
+                        {
+                            "farg": "V",
+                            "licensNr": 11256,
+                            "hundNamn": "Run For It All In",
+                            "kon": "H",
+                            "tid": 9.98,
+                            "placering": 2,
+                            "agare": "Carin Ebbesdotter",
+                            "sektion": "SÖD"
+                        },
+                        { "farg": "S" }
+                    ]
+                },
+                {
+                    "nr": 6,
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "licensNr": 1560,
+                            "hundNamn": "Hannemoon HM Black Jade",
+                            "kon": "H",
+                            "tid": 9.07,
+                            "placering": 3,
+                            "agare": "Petersson Eva",
+                            "sektion": "NOR"
+                        },
+                        {
+                            "farg": "B",
+                            "licensNr": 1566,
+                            "hundNamn": "Hannemoon HM Galearis",
+                            "kon": "H",
+                            "tid": 8.87,
+                            "placering": 1,
+                            "agare": "Andersen Hanne",
+                            "sektion": "VÄS"
+                        },
+                        {
+                            "farg": "V",
+                            "licensNr": 1532,
+                            "hundNamn": "Yellow Man's Ym's Helix",
+                            "kon": "H",
+                            "tid": 8.93,
+                            "placering": 2,
+                            "agare": "Trulsson Anna & Claes",
+                            "sektion": "HAL"
+                        },
+                        {
+                            "farg": "S",
+                            "licensNr": 1494,
+                            "hundNamn": "Hannemoon HM Shere Khan",
+                            "kon": "H",
+                            "tid": 9.33,
+                            "placering": 4,
+                            "agare": "Petersson Eva",
+                            "sektion": "NOR"
+                        }
+                    ]
+                },
+                {
+                    "nr": 7,
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "licensNr": 13327,
+                            "hundNamn": "RaceHear'ts MB Hocus Pocus",
+                            "kon": "H",
+                            "tid": 9.41,
+                            "placering": 1,
+                            "agare": "Nilsson Katarina",
+                            "sektion": "NOR"
+                        },
+                        {
+                            "farg": "B",
+                            "licensNr": 1365,
+                            "hundNamn": "Goat-Wool Zeppelin",
+                            "kon": "H",
+                            "tid": 9.61,
+                            "placering": 3,
+                            "agare": "Sjöberg Monica",
+                            "sektion": "KAR"
+                        },
+                        {
+                            "farg": "V",
+                            "licensNr": 1502,
+                            "hundNamn": "Hannemoon HM Gargamel",
+                            "kon": "H",
+                            "tid": 9.59,
+                            "placering": 2,
+                            "agare": "Andersen Hanne",
+                            "sektion": "VÄS"
+                        },
+                        {
+                            "farg": "S",
+                            "licensNr": 1478,
+                            "hundNamn": "Me & Mydogs The One",
+                            "kon": "H",
+                            "agare": "Stenius Kathryne & Kjell Johansson",
+                            "sektion": "SÖD",
+                            "kommentar": "Struken",
+                            "struken": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "kon": "Tikar",
+            "namn": "Försök 1",
+            "heat": [
+                {
+                    "nr": 1,
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "hundNamn": "Hannemoon HM Lycida",
+                            "kon": "T",
+                            "tid": 8.85,
+                            "placering": 1,
+                            "agare": "Helgesson Jan",
+                            "sektion": "NOR"
+                        },
+                        {
+                            "farg": "B",
+                            "hundNamn": "Me &My dogs Lollipop",
+                            "kon": "T",
+                            "tid": 9.89,
+                            "placering": 2,
+                            "agare": "Simonsson Anette",
+                            "sektion": "KAR"
+                        },
+                        {
+                            "farg": "V",
+                            "hundNamn": "Racehearts MB Neytiri",
+                            "kon": "T",
+                            "agare": "Berglund Mike",
+                            "sektion": "KAL",
+                            "struken": true
+                        },
+                        {
+                            "farg": "S",
+                            "hundNamn": "Come La Neve Between The Sheets",
+                            "kon": "T",
+                            "tid": 9.99,
+                            "placering": 3,
+                            "agare": "Sandahl Camilla",
+                            "sektion": "KAR"
+                        }
+                    ]
+                },
+                {
+                    "nr": 2,
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "hundNamn": "Racehearts MB Alfrida",
+                            "kon": "T",
+                            "tid": 9.18,
+                            "placering": 1,
+                            "agare": "Berglund Mike",
+                            "sektion": "KAL"
+                        },
+                        {
+                            "farg": "B",
+                            "hundNamn": "Flodaskogens mums mums",
+                            "kon": "T",
+                            "tid": 9.49,
+                            "placering": 3,
+                            "agare": "Petersson Malin",
+                            "sektion": "NOR",
+                            "licensHund": true
+                        },
+                        {
+                            "farg": "V",
+                            "hundNamn": "Racehearts MB Padme",
+                            "kon": "T",
+                            "tid": 9.63,
+                            "placering": 4,
+                            "agare": "Johansson Annika",
+                            "sektion": "KAR"
+                        },
+                        {
+                            "farg": "S",
+                            "hundNamn": "Racehearts MB Maz",
+                            "kon": "T",
+                            "tid": 9.45,
+                            "placering": 2,
+                            "agare": "Linda Olsson",
+                            "sektion": "HAL"
+                        }
+                    ]
+                },
+                {
+                    "nr": 3,
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "hundNamn": "Me & My dogs Piggelin",
+                            "kon": "T",
+                            "tid": 9.97,
+                            "placering": 2,
+                            "agare": "Persson Malin",
+                            "sektion": "KAR"
+                        },
+                        { "farg": "B" },
+                        {
+                            "farg": "V",
+                            "hundNamn": "Miraqulix LL Excellent",
+                            "kon": "T",
+                            "tid": 9.71,
+                            "placering": 1,
+                            "agare": "Josefsson",
+                            "sektion": "KAL"
+                        },
+                        {
+                            "farg": "S",
+                            "hundNamn": "Stars of Enilorac Gaia",
+                            "kon": "T",
+                            "tid": 10.6,
+                            "placering": 3,
+                            "agare": "Kvist Maria",
+                            "sektion": "HAL"
+                        }
+                    ]
+                },
+                {
+                    "nr": 4,
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "hundNamn": "Me & My dogs Glory Days",
+                            "kon": "T",
+                            "agare": "Simonsson Anette",
+                            "sektion": "KAR",
+                            "struken": true
+                        },
+                        {
+                            "farg": "B",
+                            "hundNamn": "Racehearts MB Mumi",
+                            "kon": "T",
+                            "agare": "Berglund Mike",
+                            "sektion": "KAL",
+                            "struken": true
+                        },
+                        {
+                            "farg": "V",
+                            "hundNamn": "Hannemonn HM Biwa",
+                            "kon": "T",
+                            "tid": 9.67,
+                            "placering": 2,
+                            "agare": "Petersson Malin",
+                            "sektion": "NOR"
+                        },
+                        {
+                            "farg": "S",
+                            "hundNamn": "Flodaskogens Mazetti",
+                            "kon": "T",
+                            "tid": 9.33,
+                            "placering": 1,
+                            "agare": "Helgesson Jan",
+                            "sektion": "Nor"
+                        }
+                    ]
+                },
+                {
+                    "nr": 5,
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "hundNamn": "Racehearts MB Elladora Black",
+                            "kon": "T",
+                            "tid": 9.49,
+                            "placering": 3,
+                            "agare": "Berglund Mike",
+                            "sektion": "KAL"
+                        },
+                        {
+                            "farg": "B",
+                            "hundNamn": "Racehearts MB Katrina",
+                            "kon": "T",
+                            "tid": 9.27,
+                            "placering": 1,
+                            "agare": "Johansson Annica",
+                            "sektion": "KAR"
+                        },
+                        {
+                            "farg": "V",
+                            "hundNamn": "Hopway Eden",
+                            "kon": "T",
+                            "tid": 10.56,
+                            "placering": 4,
+                            "agare": "Schmidt Jenny",
+                            "sektion": "SÖD"
+                        },
+                        {
+                            "farg": "S",
+                            "hundNamn": "Watchem I bet My Life",
+                            "kon": "T",
+                            "tid": 9.32,
+                            "placering": 2,
+                            "agare": "Petersson Malin",
+                            "sektion": "NOR"
+                        }
+                    ]
+                },
+                {
+                    "nr": 6,
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "hundNamn": "Hannemoon HM Pinkie Pie",
+                            "kon": "T",
+                            "tid": 9.24,
+                            "placering": 1,
+                            "agare": "Petersson Malin",
+                            "sektion": "NOR",
+                            "licensHund": true
+                        },
+                        {
+                            "farg": "B",
+                            "hundNamn": "Me & My dog miss Daisy",
+                            "kon": "T",
+                            "tid": 9.62,
+                            "placering": 3,
+                            "agare": "Simonsson Anette",
+                            "sektion": "KAR"
+                        },
+                        {
+                            "farg": "V",
+                            "hundNamn": "Racehearts MB Scarlet",
+                            "kon": "T",
+                            "tid": 9.33,
+                            "placering": 2,
+                            "agare": "Berglund Mike",
+                            "sektion": "KAL"
+                        },
+                        {
+                            "farg": "S",
+                            "hundNamn": "Racehearts MB Callidora Black",
+                            "kon": "T",
+                            "tid": 9.85,
+                            "placering": 4,
+                            "agare": "Helgesson Jan",
+                            "sektion": "NOR"
+                        }
+                    ]
+                },
+                {
+                    "nr": 7,
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "hundNamn": "Flodaskogens Marmelad",
+                            "kon": "T",
+                            "tid": 9.33,
+                            "placering": 1,
+                            "agare": "Primdahl Aksel",
+                            "sektion": "NOR"
+                        },
+                        {
+                            "farg": "B",
+                            "hundNamn": "Hopway Piece of Cake",
+                            "kon": "T",
+                            "tid": 10.32,
+                            "placering": 2,
+                            "agare": "Schmidt Cornelia",
+                            "sektion": "SÖD"
+                        },
+                        {
+                            "farg": "V",
+                            "hundNamn": "Come La Neve Malibu",
+                            "kon": "T",
+                            "tid": 10.34,
+                            "placering": 3,
+                            "agare": "Sandahl Camilla",
+                            "sektion": "KAR",
+                            "licensHund": true
+                        },
+                        {
+                            "farg": "S",
+                            "hundNamn": "Stars of Enilorac Siggy",
+                            "kon": "T",
+                            "tid": 10.35,
+                            "placering": 4,
+                            "agare": "Kvist Maria",
+                            "sektion": "HAL"
+                        }
+                    ]
+                },
+                {
+                    "nr": 8,
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "hundNamn": "Me & My dog Glow",
+                            "kon": "T",
+                            "agare": "Simonsson Anette",
+                            "sektion": "KAR",
+                            "struken": true
+                        },
+                        {
+                            "farg": "B",
+                            "hundNamn": "Come La Neve Laponia",
+                            "kon": "T",
+                            "tid": 10.9,
+                            "placering": 1,
+                            "agare": "Persson Malin",
+                            "sektion": "KAR",
+                            "licensHund": true
+                        },
+                        {
+                            "farg": "V",
+                            "hundNamn": "Albicans Unbelievable",
+                            "kon": "T",
+                            "tid": 12.52,
+                            "placering": 3,
+                            "agare": "Sederholm Eva",
+                            "sektion": "VÄS"
+                        },
+                        {
+                            "farg": "S",
+                            "hundNamn": "Nemaz Problemaz Twinkle Twinkle",
+                            "kon": "T",
+                            "tid": 10.23,
+                            "placering": 2,
+                            "agare": "Karlsson Anette",
+                            "sektion": "NOR",
+                            "kommentar": "Varnad"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "kon": "Hanar",
+            "namn": "Försök 2",
+            "heat": [
+                {
+                    "nr": 1,
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "licensNr": 1506,
+                            "hundNamn": "Crazy Owl´s Björn Järnsida",
+                            "kon": "H",
+                            "tid": 9.41,
+                            "placering": 3,
+                            "agare": "Sjöberg Monica",
+                            "sektion": "KAR"
+                        },
+                        {
+                            "farg": "B",
+                            "licensNr": 13327,
+                            "hundNamn": "RaceHear'ts MB Hocus Pocus",
+                            "kon": "H",
+                            "tid": 9.48,
+                            "placering": 4,
+                            "agare": "Nilsson Katarina",
+                            "sektion": "NOR"
+                        },
+                        {
+                            "farg": "V",
+                            "licensNr": 1501,
+                            "hundNamn": "Hannemoon HM Superchief",
+                            "kon": "H",
+                            "tid": 9.33,
+                            "placering": 1,
+                            "agare": "Andersen Hanne",
+                            "sektion": "VÄS"
+                        },
+                        {
+                            "farg": "S",
+                            "licensNr": 1518,
+                            "hundNamn": "Raceheart's MB Arkturus Black",
+                            "kon": "H",
+                            "tid": 9.35,
+                            "placering": 2,
+                            "agare": "Stenius Kathryne & Kjell Johansson",
+                            "sektion": "SÖD"
+                        }
+                    ]
+                },
+                {
+                    "nr": 2,
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "licensNr": 15224,
+                            "hundNamn": "Dixietown Kalle Teodor",
+                            "kon": "H",
+                            "tid": 9.9,
+                            "placering": 1,
+                            "agare": "Sahlin Tony",
+                            "sektion": "HAL"
+                        },
+                        {
+                            "farg": "B",
+                            "licensNr": 1362,
+                            "hundNamn": "Goat-Wools Zappa",
+                            "kon": "H",
+                            "tid": 10.08,
+                            "placering": 2,
+                            "agare": "Petersson Eva",
+                            "sektion": "NOR"
+                        },
+                        {
+                            "farg": "V",
+                            "licensNr": 1529,
+                            "hundNamn": "Burnt Sienna Chevron",
+                            "kon": "H",
+                            "tid": 10.39,
+                            "placering": 3,
+                            "agare": "Carin Ebbesdotter",
+                            "sektion": "SÖD"
+                        },
+                        { "farg": "S" }
+                    ]
+                },
+                {
+                    "nr": 3,
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "licensNr": 1532,
+                            "hundNamn": "Yellow Man's Ym's Helix",
+                            "kon": "H",
+                            "tid": 8.96,
+                            "placering": 1,
+                            "agare": "Trulsson Anna & Claes",
+                            "sektion": "HAL"
+                        },
+                        {
+                            "farg": "B",
+                            "licensNr": 14287,
+                            "hundNamn": "Raceheart´s MB Trick Or Treat",
+                            "kon": "H",
+                            "tid": 9.14,
+                            "placering": 2,
+                            "agare": "Fandrey Alva",
+                            "sektion": "KAL"
+                        },
+                        {
+                            "farg": "V",
+                            "licensNr": 1503,
+                            "hundNamn": "Hannemoon HM Magneto",
+                            "kon": "H",
+                            "tid": 9.47,
+                            "placering": 3,
+                            "agare": "Andersen Hanne",
+                            "sektion": "VÄS"
+                        },
+                        {
+                            "farg": "S",
+                            "licensNr": 1365,
+                            "hundNamn": "Goat-Wool Zeppelin",
+                            "kon": "H",
+                            "tid": 9.69,
+                            "placering": 4,
+                            "agare": "Sjöberg Monica",
+                            "sektion": "KAR"
+                        }
+                    ]
+                },
+                {
+                    "nr": 4,
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "licensNr": 15220,
+                            "hundNamn": "Dixietown Landsortsgrabb",
+                            "kon": "H",
+                            "tid": 9.78,
+                            "placering": 2,
+                            "agare": "Jennie Andreasson",
+                            "sektion": "HAL"
+                        },
+                        {
+                            "farg": "B",
+                            "licensNr": 11251,
+                            "hundNamn": "Mac Bells Quick Witted",
+                            "kon": "H",
+                            "tid": 9.62,
+                            "placering": 1,
+                            "agare": "Machnow Elin",
+                            "sektion": "SÖD"
+                        },
+                        {
+                            "farg": "V",
+                            "licensNr": 11256,
+                            "hundNamn": "Run For It All In",
+                            "kon": "H",
+                            "tid": 10.13,
+                            "placering": 3,
+                            "agare": "Carin Ebbesdotter",
+                            "sektion": "SÖD"
+                        },
+                        { "farg": "S" }
+                    ]
+                },
+                {
+                    "nr": 5,
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "licensNr": 1560,
+                            "hundNamn": "Hannemoon HM Black Jade",
+                            "kon": "H",
+                            "tid": 9.01,
+                            "placering": 2,
+                            "agare": "Petersson Eva",
+                            "sektion": "NOR"
+                        },
+                        {
+                            "farg": "B",
+                            "licensNr": 1439,
+                            "hundNamn": "Axrace's Admiral Rodney",
+                            "kon": "H",
+                            "tid": 10.05,
+                            "placering": 3,
+                            "agare": "Nilsson Katarina",
+                            "sektion": "NOR"
+                        },
+                        {
+                            "farg": "V",
+                            "licensNr": 1566,
+                            "hundNamn": "Hannemoon HM Galearis",
+                            "kon": "H",
+                            "tid": 8.87,
+                            "placering": 1,
+                            "agare": "Andersen Hanne",
+                            "sektion": "VÄS"
+                        },
+                        { "farg": "S" }
+                    ]
+                },
+                {
+                    "nr": 6,
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "licensNr": 1502,
+                            "hundNamn": "Hannemoon HM Gargamel",
+                            "kon": "H",
+                            "tid": 9.72,
+                            "placering": 2,
+                            "agare": "Andersen Hanne",
+                            "sektion": "VÄS"
+                        },
+                        {
+                            "farg": "B",
+                            "licensNr": 16267,
+                            "hundNamn": "VG's Nosar Emser",
+                            "kon": "H",
+                            "tid": 9.85,
+                            "placering": 3,
+                            "agare": "Jacobsson Susanne",
+                            "sektion": "KAR"
+                        },
+                        {
+                            "farg": "V",
+                            "licensNr": 1569,
+                            "hundNamn": "Calling You Ringo",
+                            "kon": "H",
+                            "tid": 9.99,
+                            "placering": 4,
+                            "agare": "Lundberg Victoria",
+                            "sektion": "SÖD"
+                        },
+                        {
+                            "farg": "S",
+                            "licensNr": 1458,
+                            "hundNamn": "Tre Hjärtans Baztian",
+                            "kon": "H",
+                            "tid": 9.65,
+                            "placering": 1,
+                            "agare": "Trulsson Anna & Claes",
+                            "sektion": "HAL"
+                        }
+                    ]
+                },
+                {
+                    "nr": 7,
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "licensNr": 1478,
+                            "hundNamn": "Me & Mydogs The One",
+                            "kon": "H",
+                            "agare": "Stenius Kathryne & Kjell Johansson",
+                            "sektion": "SÖD",
+                            "kommentar": "Struken",
+                            "struken": true
+                        },
+                        {
+                            "farg": "B",
+                            "licensNr": 1494,
+                            "hundNamn": "Hannemoon HM Shere Khan",
+                            "kon": "H",
+                            "tid": 9.26,
+                            "placering": 2,
+                            "agare": "Petersson Eva",
+                            "sektion": "NOR"
+                        },
+                        {
+                            "farg": "V",
+                            "licensNr": 1553,
+                            "hundNamn": "Goat-Wool Bowmore",
+                            "kon": "H",
+                            "tid": 9.46,
+                            "placering": 3,
+                            "agare": "Nilsson Katarina",
+                            "sektion": "NOR"
+                        },
+                        {
+                            "farg": "S",
+                            "licensNr": 1435,
+                            "hundNamn": "RaceHeart´s MB Charmander",
+                            "kon": "H",
+                            "tid": 9.22,
+                            "placering": 1,
+                            "agare": "Petersson Eva",
+                            "sektion": "NOR"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "kon": "Tikar",
+            "namn": "Försök 2",
+            "heat": [
+                {
+                    "nr": 1,
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "hundNamn": "Racehearts MB Scarlet",
+                            "kon": "T",
+                            "tid": 9.49,
+                            "placering": 2,
+                            "agare": "Berglund Mike",
+                            "sektion": "KAL"
+                        },
+                        {
+                            "farg": "B",
+                            "hundNamn": "Racehearts MB Callidora Black",
+                            "kon": "T",
+                            "tid": 9.78,
+                            "placering": 3,
+                            "agare": "Helgesson Jan",
+                            "sektion": "NOR"
+                        },
+                        {
+                            "farg": "V",
+                            "hundNamn": "Me & My dog Lollipop",
+                            "kon": "T",
+                            "tid": 9.91,
+                            "placering": 4,
+                            "agare": "Simonsson Anette",
+                            "sektion": "KAR"
+                        },
+                        {
+                            "farg": "S",
+                            "hundNamn": "Hannemoon HM Pinkie Pie",
+                            "kon": "T",
+                            "tid": 9.2,
+                            "placering": 1,
+                            "agare": "Petersson Malin",
+                            "sektion": "NOR",
+                            "licensHund": true
+                        }
+                    ]
+                },
+                {
+                    "nr": 2,
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "hundNamn": "Me & My dog Piggelin",
+                            "kon": "T",
+                            "tid": 10.01,
+                            "placering": 2,
+                            "agare": "Persson Malin",
+                            "sektion": "KAR"
+                        },
+                        {
+                            "farg": "B",
+                            "hundNamn": "Me & My dog Glory Days",
+                            "kon": "T",
+                            "agare": "Simonsson Anette",
+                            "sektion": "KAR",
+                            "struken": true
+                        },
+                        {
+                            "farg": "V",
+                            "hundNamn": "Miraqulix LL Excellent",
+                            "kon": "T",
+                            "tid": 9.7,
+                            "placering": 1,
+                            "agare": "Josefsson",
+                            "sektion": "KAL"
+                        },
+                        {
+                            "farg": "S",
+                            "hundNamn": "Start of Enilorac Siggy",
+                            "kon": "T",
+                            "tid": 10.31,
+                            "placering": 3,
+                            "agare": "Kvist Maria",
+                            "sektion": "HAL"
+                        }
+                    ]
+                },
+                {
+                    "nr": 3,
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "hundNamn": "Flodaskogens Mums mums",
+                            "kon": "T",
+                            "tid": 9.37,
+                            "placering": 1,
+                            "agare": "Petersson Malin",
+                            "sektion": "NOR",
+                            "licensHund": true
+                        },
+                        {
+                            "farg": "B",
+                            "hundNamn": "Racehearts MB Elladora Black",
+                            "kon": "T",
+                            "tid": 9.56,
+                            "placering": 3,
+                            "agare": "Berglund Mike",
+                            "sektion": "KAL"
+                        },
+                        {
+                            "farg": "V",
+                            "hundNamn": "Hopway Piece of Cake",
+                            "kon": "T",
+                            "tid": 10.24,
+                            "placering": 4,
+                            "agare": "Schmidt Cornelia",
+                            "sektion": "SÖD"
+                        },
+                        {
+                            "farg": "S",
+                            "hundNamn": "Racehearts MB Padme",
+                            "kon": "T",
+                            "tid": 9.49,
+                            "placering": 2,
+                            "agare": "Johansson Annica",
+                            "sektion": "KAR"
+                        }
+                    ]
+                },
+                {
+                    "nr": 4,
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "hundNamn": "Come La Neve Between the sheets",
+                            "kon": "T",
+                            "tid": 10.19,
+                            "placering": 1,
+                            "agare": "Sandahl Camilla",
+                            "sektion": "KAR"
+                        },
+                        {
+                            "farg": "B",
+                            "hundNamn": "Come La Neve Laponia",
+                            "kon": "T",
+                            "tid": 10.85,
+                            "placering": 4,
+                            "agare": "Persson Malin",
+                            "sektion": "KAR",
+                            "licensHund": true
+                        },
+                        {
+                            "farg": "V",
+                            "hundNamn": "Hopway Eden",
+                            "kon": "T",
+                            "tid": 10.79,
+                            "placering": 3,
+                            "agare": "Schmidt Jenny",
+                            "sektion": "SÖD"
+                        },
+                        {
+                            "farg": "S",
+                            "hundNamn": "Stars of Enilorac Gaia",
+                            "kon": "T",
+                            "tid": 10.77,
+                            "placering": 2,
+                            "agare": "Kvist Maria",
+                            "sektion": "HAL"
+                        }
+                    ]
+                },
+                {
+                    "nr": 5,
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "hundNamn": "Me & My Dog Miss Daisy",
+                            "kon": "T",
+                            "tid": 9.61,
+                            "placering": 3,
+                            "agare": "Simonsson Anette",
+                            "sektion": "KAR"
+                        },
+                        {
+                            "farg": "B",
+                            "hundNamn": "Flodaskogens Mazetti",
+                            "kon": "T",
+                            "tid": 9.16,
+                            "placering": 1,
+                            "agare": "Helgesson Jan",
+                            "sektion": "NOR"
+                        },
+                        {
+                            "farg": "V",
+                            "hundNamn": "Watchem I bet my life",
+                            "kon": "T",
+                            "tid": 9.38,
+                            "placering": 2,
+                            "agare": "Petersson Malin",
+                            "sektion": "NOR"
+                        },
+                        {
+                            "farg": "S",
+                            "hundNamn": "Racehearts MB Mumi",
+                            "kon": "T",
+                            "agare": "Berglund Mike",
+                            "sektion": "KAL",
+                            "struken": true
+                        }
+                    ]
+                },
+                {
+                    "nr": 6,
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "hundNamn": "Flodaskogens Marmelad",
+                            "kon": "T",
+                            "tid": 9.25,
+                            "placering": 1,
+                            "agare": "Primdahl Aksel",
+                            "sektion": "NOR"
+                        },
+                        {
+                            "farg": "B",
+                            "hundNamn": "Racehearts MB Neytiri",
+                            "kon": "T",
+                            "agare": "Berglund Mike",
+                            "sektion": "KAL",
+                            "struken": true
+                        },
+                        {
+                            "farg": "V",
+                            "hundNamn": "Racehearts MB Maz",
+                            "kon": "T",
+                            "tid": 9.57,
+                            "placering": 2,
+                            "agare": "Olsson Linda",
+                            "sektion": "HAL"
+                        },
+                        { "farg": "S", "kon": "T" }
+                    ]
+                },
+                {
+                    "nr": 7,
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "hundNamn": "Hannemoon HM Biwa",
+                            "kon": "T",
+                            "tid": 9.84,
+                            "placering": 4,
+                            "agare": "Petersson Malin",
+                            "sektion": "NOR"
+                        },
+                        {
+                            "farg": "B",
+                            "hundNamn": "Hannemoon HM Lycida",
+                            "kon": "T",
+                            "tid": 9.22,
+                            "placering": 2,
+                            "agare": "Helgesson Jan",
+                            "sektion": "NOR"
+                        },
+                        {
+                            "farg": "V",
+                            "hundNamn": "Racehearts MB Katrina",
+                            "kon": "T",
+                            "tid": 9.33,
+                            "placering": 3,
+                            "agare": "Johansson Annica",
+                            "sektion": "KAR"
+                        },
+                        {
+                            "farg": "S",
+                            "hundNamn": "Racehearts MB Alfrida",
+                            "kon": "T",
+                            "tid": 9.21,
+                            "placering": 1,
+                            "agare": "Berglund Mike",
+                            "sektion": "KAL"
+                        }
+                    ]
+                },
+                {
+                    "nr": 8,
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "hundNamn": "Nemaz Problemaz Twinkle Twinkle",
+                            "kon": "T",
+                            "tid": 12.21,
+                            "placering": 3,
+                            "agare": "Karlsson Anette",
+                            "sektion": "NOR"
+                        },
+                        {
+                            "farg": "B",
+                            "hundNamn": "Albicans Unbelievable",
+                            "kon": "T",
+                            "tid": 10.45,
+                            "placering": 1,
+                            "agare": "Sederholm Eva",
+                            "sektion": "VÄS"
+                        },
+                        {
+                            "farg": "V",
+                            "hundNamn": "Me & My dog Glow",
+                            "kon": "T",
+                            "agare": "Simonsson Anette",
+                            "sektion": "KAR",
+                            "struken": true
+                        },
+                        {
+                            "farg": "S",
+                            "hundNamn": "Come La Neve Malibu",
+                            "kon": "T",
+                            "tid": 10.46,
+                            "placering": 2,
+                            "agare": "Sandahl Camilla",
+                            "sektion": "KAR",
+                            "licensHund": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "kon": "Hanar",
+            "namn": "Semifinal",
+            "heat": [
+                {
+                    "nr": 1,
+                    "klass": "E-F",
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "licensNr": 15224,
+                            "hundNamn": "Dixietown Kalle Teodor",
+                            "kon": "H",
+                            "tid": 9.93,
+                            "placering": 3
+                        },
+                        {
+                            "farg": "B",
+                            "licensNr": 1362,
+                            "hundNamn": "Goat-Wools Zappa",
+                            "kon": "H",
+                            "tid": 10.31,
+                            "placering": 4
+                        },
+                        {
+                            "farg": "V",
+                            "licensNr": 1439,
+                            "hundNamn": "Axrace's Admiral Rodney",
+                            "kon": "H",
+                            "tid": 9.53,
+                            "placering": 1
+                        },
+                        {
+                            "farg": "S",
+                            "licensNr": 16267,
+                            "hundNamn": "VG's Nosar Emser",
+                            "kon": "H",
+                            "tid": 9.89,
+                            "placering": 2
+                        }
+                    ]
+                },
+                {
+                    "nr": 2,
+                    "klass": "E-F",
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "licensNr": 15220,
+                            "hundNamn": "Dixietown Landsortsgrabb",
+                            "kon": "H",
+                            "tid": 9.62,
+                            "placering": 1
+                        },
+                        {
+                            "farg": "B",
+                            "licensNr": 1529,
+                            "hundNamn": "Burnt Sienna Chevron",
+                            "kon": "H",
+                            "tid": 10.29,
+                            "placering": 4
+                        },
+                        {
+                            "farg": "V",
+                            "licensNr": 11256,
+                            "hundNamn": "Run For It All In",
+                            "kon": "H",
+                            "tid": 10.17,
+                            "placering": 3
+                        },
+                        {
+                            "farg": "S",
+                            "licensNr": 1569,
+                            "hundNamn": "Calling You Ringo",
+                            "kon": "H",
+                            "tid": 9.86,
+                            "placering": 2
+                        }
+                    ]
+                },
+                {
+                    "nr": 1,
+                    "klass": "C-D",
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "licensNr": 13327,
+                            "hundNamn": "RaceHear'ts MB Hocus Pocus",
+                            "kon": "H",
+                            "tid": 9.27,
+                            "placering": 1
+                        },
+                        {
+                            "farg": "B",
+                            "licensNr": 1553,
+                            "hundNamn": "Goat-Wool Bowmore",
+                            "kon": "H",
+                            "tid": 9.29,
+                            "placering": 2
+                        },
+                        {
+                            "farg": "V",
+                            "licensNr": 1365,
+                            "hundNamn": "Goat-Wool Zeppelin",
+                            "kon": "H",
+                            "tid": 9.7,
+                            "placering": 4
+                        },
+                        {
+                            "farg": "S",
+                            "licensNr": 11251,
+                            "hundNamn": "Mac Bells Quick Witted",
+                            "kon": "H",
+                            "tid": 9.53,
+                            "placering": 3
+                        }
+                    ]
+                },
+                {
+                    "nr": 2,
+                    "klass": "C-D",
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "licensNr": 1506,
+                            "hundNamn": "Crazy Owl´s Björn Järnsida",
+                            "kon": "H",
+                            "tid": 9.36,
+                            "placering": 2
+                        },
+                        {
+                            "farg": "B",
+                            "licensNr": 1503,
+                            "hundNamn": "Hannemoon HM Magneto",
+                            "kon": "H",
+                            "tid": 9.53,
+                            "placering": 4
+                        },
+                        {
+                            "farg": "V",
+                            "licensNr": 1458,
+                            "hundNamn": "Tre Hjärtans Baztian",
+                            "kon": "H",
+                            "tid": 9.45,
+                            "placering": 3
+                        },
+                        {
+                            "farg": "S",
+                            "licensNr": 1502,
+                            "hundNamn": "Hannemoon HM Gargamel",
+                            "kon": "H",
+                            "tid": 9.26,
+                            "placering": 1
+                        }
+                    ]
+                },
+                {
+                    "nr": 1,
+                    "klass": "A-B",
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "licensNr": 1532,
+                            "hundNamn": "Yellow Man's Ym's Helix",
+                            "kon": "H",
+                            "tid": 8.93,
+                            "placering": 1
+                        },
+                        {
+                            "farg": "B",
+                            "licensNr": 14287,
+                            "hundNamn": "Raceheart´s MB Trick Or Treat",
+                            "kon": "H",
+                            "tid": 9.08,
+                            "placering": 3
+                        },
+                        {
+                            "farg": "V",
+                            "licensNr": 1501,
+                            "hundNamn": "Hannemoon HM Superchief",
+                            "kon": "H",
+                            "tid": 9.36,
+                            "placering": 4
+                        },
+                        {
+                            "farg": "S",
+                            "licensNr": 1560,
+                            "hundNamn": "Hannemoon HM Black Jade",
+                            "kon": "H",
+                            "tid": 8.96,
+                            "placering": 2
+                        }
+                    ]
+                },
+                {
+                    "nr": 2,
+                    "klass": "A-B",
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "licensNr": 1435,
+                            "hundNamn": "RaceHeart´s MB Charmander",
+                            "kon": "H",
+                            "tid": 9.06,
+                            "placering": 2
+                        },
+                        {
+                            "farg": "B",
+                            "licensNr": 1566,
+                            "hundNamn": "Hannemoon HM Galearis",
+                            "kon": "H",
+                            "tid": 8.75,
+                            "placering": 1
+                        },
+                        {
+                            "farg": "V",
+                            "licensNr": 1518,
+                            "hundNamn": "Raceheart's MB Arkturus Black",
+                            "kon": "H",
+                            "tid": 9.26,
+                            "placering": 4
+                        },
+                        {
+                            "farg": "S",
+                            "licensNr": 1494,
+                            "hundNamn": "Hannemoon HM Shere Khan",
+                            "kon": "H",
+                            "tid": 9.22,
+                            "placering": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "kon": "Hanar",
+            "namn": "Final",
+            "heat": [
+                {
+                    "klass": "F",
+                    "sponsor": "Flodaskogens Kennel - Jan och Eva Helgesson",
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "licensNr": 15224,
+                            "hundNamn": "Dixietown Kalle Teodor",
+                            "kon": "H",
+                            "tid": 9.75,
+                            "placering": 1
+                        },
+                        {
+                            "farg": "B",
+                            "licensNr": 1529,
+                            "hundNamn": "Burnt Sienna Chevron",
+                            "kon": "H",
+                            "tid": 10.29,
+                            "placering": 4
+                        },
+                        {
+                            "farg": "V",
+                            "licensNr": 1362,
+                            "hundNamn": "Goat-Wools Zappa",
+                            "kon": "H",
+                            "tid": 10.09,
+                            "placering": 2
+                        },
+                        {
+                            "farg": "S",
+                            "licensNr": 11256,
+                            "hundNamn": "Run For It All In",
+                            "kon": "H",
+                            "tid": 10.17,
+                            "placering": 3
+                        }
+                    ]
+                },
+                {
+                    "klass": "E",
+                    "sponsor": "Anicura Strängnäs",
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "licensNr": 15220,
+                            "hundNamn": "Dixietown Landsortsgrabb",
+                            "kon": "H",
+                            "tid": 9.52,
+                            "placering": 2
+                        },
+                        {
+                            "farg": "B",
+                            "licensNr": 16267,
+                            "hundNamn": "VG's Nosar Emser",
+                            "kon": "H",
+                            "tid": 9.59,
+                            "placering": 3
+                        },
+                        {
+                            "farg": "V",
+                            "licensNr": 1569,
+                            "hundNamn": "Calling You Ringo",
+                            "kon": "H",
+                            "tid": 9.89,
+                            "placering": 4
+                        },
+                        {
+                            "farg": "S",
+                            "licensNr": 1439,
+                            "hundNamn": "Axrace's Admiral Rodney",
+                            "kon": "H",
+                            "tid": 9.4,
+                            "placering": 1
+                        }
+                    ]
+                },
+                {
+                    "klass": "D",
+                    "sponsor": "Kennel Miraqulix",
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "licensNr": 1365,
+                            "hundNamn": "Goat-Wool Zeppelin",
+                            "kon": "H",
+                            "tid": 9.72,
+                            "placering": 4
+                        },
+                        {
+                            "farg": "B",
+                            "licensNr": 1503,
+                            "hundNamn": "Hannemoon HM Magneto",
+                            "kon": "H",
+                            "tid": 9.27,
+                            "placering": 1
+                        },
+                        {
+                            "farg": "V",
+                            "licensNr": 1458,
+                            "hundNamn": "Tre Hjärtans Baztian",
+                            "kon": "H",
+                            "tid": 9.42,
+                            "placering": 2
+                        },
+                        {
+                            "farg": "S",
+                            "licensNr": 11251,
+                            "hundNamn": "Mac Bells Quick Witted",
+                            "kon": "H",
+                            "tid": 9.56,
+                            "placering": 3
+                        }
+                    ]
+                },
+                {
+                    "klass": "C",
+                    "sponsor": "Norrköping Whippet Race",
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "licensNr": 13327,
+                            "hundNamn": "RaceHear'ts MB Hocus Pocus",
+                            "kon": "H",
+                            "tid": 9.33,
+                            "placering": 3
+                        },
+                        {
+                            "farg": "B",
+                            "licensNr": 1553,
+                            "hundNamn": "Goat-Wool Bowmore",
+                            "kon": "H",
+                            "tid": 9.3,
+                            "placering": 2
+                        },
+                        {
+                            "farg": "V",
+                            "licensNr": 1502,
+                            "hundNamn": "Hannemoon HM Gargamel",
+                            "kon": "H",
+                            "tid": 9.67,
+                            "placering": 4
+                        },
+                        {
+                            "farg": "S",
+                            "licensNr": 1506,
+                            "hundNamn": "Crazy Owl´s Björn Järnsida",
+                            "kon": "H",
+                            "tid": 9.29,
+                            "placering": 1
+                        }
+                    ]
+                },
+                {
+                    "klass": "B",
+                    "sponsor": "Hundens hörna och Södertälje Whippet Race",
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "licensNr": 1494,
+                            "hundNamn": "Hannemoon HM Shere Khan",
+                            "kon": "H",
+                            "tid": 9.31,
+                            "placering": 3
+                        },
+                        {
+                            "farg": "B",
+                            "licensNr": 1501,
+                            "hundNamn": "Hannemoon HM Superchief",
+                            "kon": "H",
+                            "tid": 9.37,
+                            "placering": 4
+                        },
+                        {
+                            "farg": "V",
+                            "licensNr": 1518,
+                            "hundNamn": "Raceheart's MB Arkturus Black",
+                            "kon": "H",
+                            "tid": 9.22,
+                            "placering": 2
+                        },
+                        {
+                            "farg": "S",
+                            "licensNr": 14287,
+                            "hundNamn": "Raceheart´s MB Trick Or Treat",
+                            "kon": "H",
+                            "tid": 9.05,
+                            "placering": 1
+                        }
+                    ]
+                },
+                {
+                    "klass": "A",
+                    "sponsor": "Lina Sjödin och Kennel Miraqulix",
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "licensNr": 1532,
+                            "hundNamn": "Yellow Man's Ym's Helix",
+                            "kon": "H",
+                            "tid": 8.93,
+                            "placering": 2
+                        },
+                        {
+                            "farg": "B",
+                            "licensNr": 1566,
+                            "hundNamn": "Hannemoon HM Galearis",
+                            "kon": "H",
+                            "tid": 8.82,
+                            "placering": 1
+                        },
+                        {
+                            "farg": "V",
+                            "licensNr": 1435,
+                            "hundNamn": "RaceHeart´s MB Charmander",
+                            "kon": "H",
+                            "tid": 9.12,
+                            "placering": 4
+                        },
+                        {
+                            "farg": "S",
+                            "licensNr": 1560,
+                            "hundNamn": "Hannemoon HM Black Jade",
+                            "kon": "H",
+                            "tid": 9.01,
+                            "placering": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "kon": "Tikar",
+            "namn": "Final",
+            "heat": [
+                {
+                    "klass": "G",
+                    "sponsor": "Plac",
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "hundNamn": "Nemaz Problemaz Twinkle Twinkle",
+                            "kon": "T",
+                            "tid": 11.39,
+                            "placering": 3
+                        },
+                        {
+                            "farg": "B",
+                            "hundNamn": "Come La Neve Laponia",
+                            "kon": "T",
+                            "tid": 10.89,
+                            "placering": 2,
+                            "licensHund": true
+                        },
+                        {
+                            "farg": "V",
+                            "hundNamn": "Albicans Unbelievable",
+                            "kon": "T",
+                            "tid": 10.63,
+                            "placering": 1
+                        },
+                        { "farg": "S" }
+                    ]
+                },
+                {
+                    "klass": "F",
+                    "sponsor": "Plac",
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "hundNamn": "Stars of Enilorac Gaia",
+                            "kon": "T",
+                            "tid": 10.43,
+                            "placering": 2
+                        },
+                        {
+                            "farg": "B",
+                            "hundNamn": "Hopway Eden",
+                            "kon": "T",
+                            "tid": 10.59,
+                            "placering": 4
+                        },
+                        {
+                            "farg": "V",
+                            "hundNamn": "Start of Enilorac Siggy",
+                            "kon": "T",
+                            "tid": 10.19,
+                            "placering": 1
+                        },
+                        {
+                            "farg": "S",
+                            "hundNamn": "Come La Neve Malibu",
+                            "kon": "T",
+                            "tid": 10.52,
+                            "placering": 3,
+                            "licensHund": true
+                        }
+                    ]
+                },
+                {
+                    "klass": "E",
+                    "sponsor": "Plac",
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "hundNamn": "Me & My dog Lollipop",
+                            "kon": "T",
+                            "tid": 10.07,
+                            "placering": 2
+                        },
+                        {
+                            "farg": "B",
+                            "hundNamn": "Me & My dog Piggelin",
+                            "kon": "T",
+                            "tid": 10.03,
+                            "placering": 1
+                        },
+                        {
+                            "farg": "V",
+                            "hundNamn": "Hopway Piece of Cake",
+                            "kon": "T",
+                            "tid": 10.1,
+                            "placering": 3
+                        },
+                        {
+                            "farg": "S",
+                            "hundNamn": "Come La Neve Between the sheets",
+                            "kon": "T",
+                            "tid": 10.45,
+                            "placering": 4
+                        }
+                    ]
+                },
+                {
+                    "klass": "D",
+                    "sponsor": "Plac",
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "hundNamn": "Me & My Dog Miss Daisy",
+                            "kon": "T",
+                            "tid": 9.79,
+                            "placering": 4
+                        },
+                        {
+                            "farg": "B",
+                            "hundNamn": "Miraqulix LL Excellent",
+                            "kon": "T",
+                            "tid": 9.76,
+                            "placering": 2
+                        },
+                        {
+                            "farg": "V",
+                            "hundNamn": "Hannemoon HM Biwa",
+                            "kon": "T",
+                            "tid": 9.68,
+                            "placering": 1
+                        },
+                        {
+                            "farg": "S",
+                            "hundNamn": "Racehearts MB Callidora Black",
+                            "kon": "T",
+                            "tid": 9.77,
+                            "placering": 3
+                        }
+                    ]
+                },
+                {
+                    "klass": "C",
+                    "sponsor": "Plac",
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "hundNamn": "Racehearts MB Padme",
+                            "kon": "T",
+                            "tid": 9.59,
+                            "placering": 4
+                        },
+                        {
+                            "farg": "B",
+                            "hundNamn": "Racehearts MB Maz",
+                            "kon": "T",
+                            "tid": 9.51,
+                            "placering": 3
+                        },
+                        {
+                            "farg": "V",
+                            "hundNamn": "Racehearts MB Elladora Black",
+                            "kon": "T",
+                            "tid": 9.41,
+                            "placering": 1
+                        },
+                        {
+                            "farg": "S",
+                            "hundNamn": "Flodaskogens Mums mums",
+                            "kon": "T",
+                            "tid": 9.42,
+                            "placering": 2,
+                            "licensHund": true
+                        }
+                    ]
+                },
+                {
+                    "klass": "B",
+                    "sponsor": "Plac",
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "hundNamn": "Racehearts MB Scarlet",
+                            "kon": "T"
+                        },
+                        {
+                            "farg": "B",
+                            "hundNamn": "Watchem I bet my life",
+                            "kon": "T"
+                        },
+                        {
+                            "farg": "V",
+                            "hundNamn": "Racehearts MB Katrina",
+                            "kon": "T"
+                        },
+                        {
+                            "farg": "S",
+                            "hundNamn": "Flodaskogens Marmelad",
+                            "kon": "T",
+                            "placering": 1
+                        }
+                    ]
+                },
+                {
+                    "klass": "A",
+                    "sponsor": "Plac",
+                    "starter": [
+                        {
+                            "farg": "R",
+                            "hundNamn": "Racehearts MB Alfrida",
+                            "kon": "T",
+                            "tid": 9.23,
+                            "placering": 2
+                        },
+                        {
+                            "farg": "B",
+                            "hundNamn": "Hannemoon HM Lycida",
+                            "kon": "T",
+                            "tid": 9.07,
+                            "placering": 1
+                        },
+                        {
+                            "farg": "V",
+                            "hundNamn": "Hannemoon HM Pinkie Pie",
+                            "kon": "T",
+                            "tid": 9.25,
+                            "placering": 3,
+                            "licensHund": true
+                        },
+                        {
+                            "farg": "S",
+                            "hundNamn": "Flodaskogens Mazetti",
+                            "kon": "T",
+                            "tid": 9.26,
+                            "placering": 4
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
